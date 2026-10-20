@@ -1,0 +1,20 @@
+{
+  "version": "v0.1.25",
+  "images": {
+    "api": {
+      "tag": "v0.1.25",
+      "digest": "sha256:77a9ccba56e96530eb69a7363249b111cc9bef3318fd6cfd2f26f775c4be60f0"
+    },
+    "worker": {
+      "tag": "v0.1.25",
+      "digest": "sha256:77a9ccba56e96530eb69a7363249b111cc9bef3318fd6cfd2f26f775c4be60f0"
+    },
+    "proxy": {
+      "tag": "v0.1.25",
+      "digest": "sha256:f7b603db0dffc64fcec93f6862422915d9c3cf5ad43817a62c85847046b41ea8"
+    }
+  },
+  "min_desk_version": null,
+  "requires_manual_step": false,
+  "notes": "Automated delivery release"
+}
