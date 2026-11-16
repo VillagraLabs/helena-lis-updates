@@ -1,17 +1,17 @@
 {
-  "version": "v0.1.44",
+  "version": "v0.1.45",
   "images": {
     "api": {
-      "tag": "v0.1.44",
-      "digest": "sha256:6463d6cda1f7455a7495f15c5f72ab5ee73c61df892c21f26ff5303d9542f4fe"
+      "tag": "v0.1.45",
+      "digest": "sha256:7ade7f2154846f7be9b48ed2c97b10551427b04b27529296258f2835294c67da"
     },
     "worker": {
-      "tag": "v0.1.44",
-      "digest": "sha256:6463d6cda1f7455a7495f15c5f72ab5ee73c61df892c21f26ff5303d9542f4fe"
+      "tag": "v0.1.45",
+      "digest": "sha256:7ade7f2154846f7be9b48ed2c97b10551427b04b27529296258f2835294c67da"
     },
     "proxy": {
-      "tag": "v0.1.44",
-      "digest": "sha256:a8b7a0269abef4b0add05e10887fe10570c5cef264ec104e9c17617143da93a4"
+      "tag": "v0.1.45",
+      "digest": "sha256:a9df58775f97683a018c6c0f701440efbf20d71413616b0b034107f14088b5f3"
     }
   },
   "min_desk_version": null,
